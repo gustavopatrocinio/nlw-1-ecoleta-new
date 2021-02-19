@@ -1,0 +1,22 @@
+#confirmation {
+    background: black;
+    opacity: 0.9;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.3;
+}
+
+.done {
+    display: block;
+    color: #FFF;
+}
+
+.span, .icone-svg {
+    color: rgb(50,205,50);
+    width: 35px;
+    height: 35px;
+    margin-left: 125px;
+}
+
